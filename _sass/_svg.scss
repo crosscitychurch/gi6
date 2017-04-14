@@ -1,7 +1,9 @@
 h3 svg {
   width: 2rem;
   height: 2rem;
-  margin-left: -3rem;
   margin-right: 1rem;
   vertical-align: middle;
+  @media (min-width: 50rem) {
+  	margin-left: -3rem;
+  }
 }
