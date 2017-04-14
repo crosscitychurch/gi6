@@ -12,10 +12,14 @@
     content: "+";
     float: left;
     text-align: center;
-    margin-left: -3rem;
-    margin-right: 1rem;
+    margin-left: -2rem;
+    margin-right: 0;
     width: 2rem;
     height: 2rem;
+    @media (min-width: 50rem) {
+    margin-left: -3rem;
+    margin-right: 1rem;
+  }
   }
 }
 
