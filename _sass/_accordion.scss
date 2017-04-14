@@ -1,0 +1,31 @@
+.acc-link {
+  padding-left: 0;
+  cursor: pointer;
+  padding-bottom: $space;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #ddd;
+  transition: .2s ease-in-out;
+  &:hover {
+    color: $gold;
+  }
+  &:before {
+    content: "+";
+    float: left;
+    text-align: center;
+    margin-left: -3rem;
+    margin-right: 1rem;
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+.acc-toggle {
+  &:before {
+    content: "-";
+  }
+}
+
+.acc-text {
+  display: none;
+  border-bottom: 1px solid #ddd;
+}
