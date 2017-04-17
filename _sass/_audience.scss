@@ -1,0 +1,27 @@
+.audience {
+  display: inline-block;
+  padding: $space-2;
+  vertical-align: top;
+  width: 100%;
+  margin-bottom: $space;
+  border: 1px solid $gold;
+  font-family: $sans;
+  text-align: center;
+  line-height: 1.2;
+  &:hover {
+    background: $gold;
+    color: #fff;
+  }
+
+  @media (min-width: 30rem) {
+    width: 32%;
+    width: calc((100% / 3) - 4px - 3%);
+    width: 30%;
+    margin-right: 3%;
+    margin-bottom: $space;
+  }
+}
+
+.audience:nth-child(3) {
+    margin-right: 0;
+}

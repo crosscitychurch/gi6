@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The Gospel</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2017-04-14T15:44:25-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://gospelinsix.com/atom.xml" rel="self"/>
+ <link href="http://gospelinsix.com/"/>
+ <updated>2017-04-16T21:34:12-04:00</updated>
+ <id>http://gospelinsix.com</id>
  <author>
    <name>Cross City Church</name>
    <email>scott@crosscitychurch.org</email>
@@ -14,84 +14,47 @@
  
  <entry>
    <title>The Gospel</title>
-   <link href="http://localhost:4000/2017/01/03/the-gospel/"/>
+   <link href="http://gospelinsix.com/2017/01/03/the-gospel/"/>
    <updated>2017-01-03T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2017/01/03/the-gospel</id>
-   <content type="html">&lt;h2 class=&quot;acc-link&quot;&gt;For Those Who Are &lt;span class=&quot;keyword&quot;&gt;Uncertain&lt;/span&gt; About the Gospel&lt;/h2&gt;
-&lt;div class=&quot;acc-text&quot;&gt;
-    &lt;p&gt;Thank you for taking a few moments to consider the message of the Bible, which it calls “The gospel”. The gospel means “Good News”, but its message is actually some very bad news followed by much better news.&lt;/p&gt;
-    &lt;p&gt;As you read this introduction, you will probably find yourself in one of the following three categories:&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;You are aware that you don’t understand the gospel&lt;/li&gt;
-      &lt;li&gt;You may think you have understood the gospel, but actually have not&lt;/li&gt;
-      &lt;li&gt;Or, you may truly understand the gospel and have chosen to reject it&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;p&gt;Most likely, you belong in one of the first two categories, and the reason is simple. The Bible can be overwhelming and hard to understand. But the message of the Bible doesn’t have to be confusing. God has designed the gospel to be explained in a
-      variety of ways, depending upon audience. Jesus Himself gave the gospel to people in different ways, yet it was always the same message, anchored in the same absolute truths. In this little booklet, we will start at the beginning, and give you a
-      clear explanation of what the Bible &lt;em&gt;says&lt;/em&gt;, and what it &lt;em&gt;means for you.&lt;/em&gt;&lt;/p&gt;
-    &lt;p&gt;As you start through the next few pages, start by asking yourself the five following questions:&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;What does the God of the Bible care most about?&lt;/li&gt;
-      &lt;li&gt;What is God’s main problem with mankind?&lt;/li&gt;
-      &lt;li&gt;In the concept of salvation... what is God primarily offering mankind?&lt;/li&gt;
-      &lt;li&gt;Who is Jesus and how does He enable this offer?&lt;/li&gt;
-      &lt;li&gt;How does a person receive this offer?&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;p&gt;If you can answer these questions, then you are well on your way to finally understanding what the Bible is actually saying... and you are ready to consider what you now want to do with it.&lt;/p&gt;
-  &lt;/div&gt;
+   <id>http://gospelinsix.com/2017/01/03/the-gospel</id>
+   <content type="html">&lt;p&gt;Thank you for taking a few moments to consider the message of the Bible, which it calls “The gospel”. The gospel means “Good News”, but its message is actually some very bad news followed by much better news.&lt;/p&gt;
 
-&lt;h2 class=&quot;acc-link&quot;&gt;For Those Who are &lt;span class=&quot;keyword&quot;&gt;Skeptical&lt;/span&gt; About the Gospel&lt;/h2&gt;
-&lt;div class=&quot;acc-text&quot;&gt;
-    &lt;p&gt;We love science, reason and empirical proof. In our western culture we are careful to only trust that which is proven and reasonable. Faith, though acceptable for someone else, is largely seen as a weakness and a crutch.&lt;/p&gt;
-    &lt;p&gt;You are a person of faith. Some believe in a defined faith such as Judaism, Islam, Buddhism or Christianity, while others, such as secularists, agnostics or atheists, hold to an undefined or more informal belief system.&lt;/p&gt;
-    &lt;p&gt;Our views on assault, intolerance, bigotry and beauty show that we truly believe in absolutes and ultimate morals. Each of these absolutes go beyond reason and cross over into the realm of faith, regardless of whether we choose to admit it.&lt;/p&gt;
-    &lt;p&gt;The hope of this booklet is to allow you, as a reasonable person who rests on faith (again, all of us do, ultimately), to have the chance to “hear out” a simple summary of the faith that is found in the Bible. Truthfully, our ultimate hope is that
-      in doing so, you hear the voice of Christ calling you and place your faith in Him.&lt;/p&gt;
-  &lt;/div&gt;
+&lt;p&gt;&lt;a class=&quot;audience&quot; href=&quot;#uncertain&quot;&gt;Uncertain about the gospel?&lt;/a&gt;
+&lt;a class=&quot;audience&quot; href=&quot;#skeptical&quot;&gt;Skeptical about the gospel?&lt;/a&gt;
+&lt;a class=&quot;audience&quot; href=&quot;#accept&quot;&gt;Do you accept the gospel?&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 class=&quot;acc-link&quot;&gt;For Those Who &lt;span class=&quot;keyword&quot;&gt;Accept&lt;/span&gt; the Gospel&lt;/h2&gt;
-&lt;div class=&quot;acc-text&quot;&gt;
-    &lt;p&gt;God changes people through the gospel. It is the precious foundation for all of our thinking and the most powerful tool we have for accomplishing our mission. We must be gospel-centered people who preach the gospel to ourselves daily and eagerly seek
-      the opportunities to share it with others.&lt;/p&gt;
-    &lt;p&gt;The gospel is greatly misunderstood and quickly forgotten. One of our greatest obstacles to sharing the gospel is our world’s impression that they already understand it. The same can be said of the Church. Therefore, our greatest ambitions will always
-      be our own personal understanding, our own belief in the gospel and our own ability to convey that message to the world around us.&lt;/p&gt;
-    &lt;p&gt;The gospel can be explained simply in a few sentences or fully unfolded as the whole 66 books of the Bible. Yet God has given us the freedom and obligation to communicate the gospel in the most effective fashion possible. To accomplish this, our communication
-      of the gospel needs to meet three standards:&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;It must be Biblically correct and paint a clear story&lt;/li&gt;
-      &lt;li&gt;It must establish core concepts, while clearing up common misconceptions&lt;/li&gt;
-      &lt;li&gt;It must provide the believer with clear direction for every area of life&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;p&gt;As you read through this booklet, consider two things: First, are there areas of your life that suffer from poor understanding, forgetfulness or partial disbelief of the gospel? And secondly, but just as importantly, how would you explain the gospel
-      to the people God has placed in your life?&lt;/p&gt;
-    &lt;p&gt;Take a moment to think through the five questions on the previous page and keep your answers in mind as you work through this booklet.&lt;/p&gt;
-  &lt;/div&gt;
+&lt;h2 id=&quot;snapshot&quot;&gt;The Gospel in a Snapshot&lt;/h2&gt;
+&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 81.91 73.91&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1136,918.16a42.11,42.11,0,0,0-19.53-24.9,26.6,26.6,0,0,0,.24-3.49c0-10.67-6.58-19.91-12.1-25.77a12.46,12.46,0,0,0-18.16,0c-5.52,5.87-12.1,15.1-12.1,25.77a26.56,26.56,0,0,0,.24,3.49,42.11,42.11,0,0,0-19.53,24.9A12.44,12.44,0,0,0,1067.36,934c8.35-.25,19.61-2,28.12-8.64,8.51,6.62,19.77,8.39,28.12,8.64h.39a12.44,12.44,0,0,0,12-15.82Zm-54-28.39c0-8.16,5.45-15.66,10-20.51a4.79,4.79,0,0,1,7,0c4.57,4.85,10,12.35,10,20.51,0,0,0,.07,0,.11a41.73,41.73,0,0,0-27,0S1082,889.81,1082,889.77Zm13.5,23.91c-3.28-2.92-9.21-8.92-12-16.2a34.06,34.06,0,0,1,24,0C1104.68,904.74,1098.75,910.76,1095.48,913.68Zm-28.35,12.62a4.74,4.74,0,0,1-3.92-1.84,4.68,4.68,0,0,1-.82-4.2,34.38,34.38,0,0,1,14.25-19.3c3.5,8.53,10.1,15.22,13.83,18.53C1083.6,924.68,1074.19,926.09,1067.13,926.31Zm60.62-1.84a4.74,4.74,0,0,1-3.92,1.84c-7.06-.21-16.47-1.63-23.34-6.81,3.73-3.31,10.32-10,13.83-18.53a34.38,34.38,0,0,1,14.25,19.3A4.68,4.68,0,0,1,1127.75,924.47Z&quot; transform=&quot;translate(-1054.53 -860.07)&quot; /&gt;&lt;/svg&gt;God&lt;/h3&gt;
 
-&lt;h2&gt;The Gospel in a Snapshot&lt;/h2&gt;
-&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 81.91 73.91&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1136,918.16a42.11,42.11,0,0,0-19.53-24.9,26.6,26.6,0,0,0,.24-3.49c0-10.67-6.58-19.91-12.1-25.77a12.46,12.46,0,0,0-18.16,0c-5.52,5.87-12.1,15.1-12.1,25.77a26.56,26.56,0,0,0,.24,3.49,42.11,42.11,0,0,0-19.53,24.9A12.44,12.44,0,0,0,1067.36,934c8.35-.25,19.61-2,28.12-8.64,8.51,6.62,19.77,8.39,28.12,8.64h.39a12.44,12.44,0,0,0,12-15.82Zm-54-28.39c0-8.16,5.45-15.66,10-20.51a4.79,4.79,0,0,1,7,0c4.57,4.85,10,12.35,10,20.51,0,0,0,.07,0,.11a41.73,41.73,0,0,0-27,0S1082,889.81,1082,889.77Zm13.5,23.91c-3.28-2.92-9.21-8.92-12-16.2a34.06,34.06,0,0,1,24,0C1104.68,904.74,1098.75,910.76,1095.48,913.68Zm-28.35,12.62a4.74,4.74,0,0,1-3.92-1.84,4.68,4.68,0,0,1-.82-4.2,34.38,34.38,0,0,1,14.25-19.3c3.5,8.53,10.1,15.22,13.83,18.53C1083.6,924.68,1074.19,926.09,1067.13,926.31Zm60.62-1.84a4.74,4.74,0,0,1-3.92,1.84c-7.06-.21-16.47-1.63-23.34-6.81,3.73-3.31,10.32-10,13.83-18.53a34.38,34.38,0,0,1,14.25,19.3A4.68,4.68,0,0,1,1127.75,924.47Z&quot; transform=&quot;translate(-1054.53 -860.07)&quot; /&gt;&lt;/svg&gt;God&lt;/h3&gt;
 &lt;p&gt;God made all things for His Glory and communicated with mankind in the Scriptures.&lt;/p&gt;
-&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 70.42 67.66&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1063.16,1033.23a12.36,12.36,0,0,0,9.51,20.27h45.64a12.36,12.36,0,0,0,9.51-20.27,42.07,42.07,0,0,0-15.2-11.49,31.34,31.34,0,0,0,4.05-14.82c0-.33,0-.67,0-1-.51-13.18-11-20.07-21.16-20.07s-20.66,6.89-21.16,20.07q0,.5,0,1a31.34,31.34,0,0,0,4.05,14.82A42.07,42.07,0,0,0,1063.16,1033.23Zm19.46-5a60,60,0,0,0,3.94,4.6,12.28,12.28,0,0,0,17.85,0,59.91,59.91,0,0,0,3.94-4.6,34.4,34.4,0,0,1,13.57,9.9,4.69,4.69,0,0,1-3.62,7.69h-45.64a4.69,4.69,0,0,1-3.62-7.69A34.4,34.4,0,0,1,1082.62,1028.25Zm-.65-21.34c0-.24,0-.47,0-.71.34-8.77,7-12.69,13.5-12.69s13.16,3.92,13.5,12.69q0,.35,0,.7c0,8.22-5.52,15.77-10.15,20.66a4.61,4.61,0,0,1-6.71,0C1087.49,1022.68,1082,1015.13,1082,1006.91Z&quot; transform=&quot;translate(-1060.27 -985.84)&quot; /&gt;&lt;/svg&gt;Man&lt;/h3&gt;
-&lt;p&gt;All people were created by God for His glory. Mankind was designed to have relationship with God and to have God as the ultimate treasure and authority.&lt;/p&gt;
-&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 72.99 76.92&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1095.48,1103.29c-10.13,0-20.66,6.89-21.16,20.07q0,.5,0,1c0,10.75,6.67,20,12.26,25.93a12.28,12.28,0,0,0,17.85,0c5.59-5.9,12.26-15.19,12.26-25.93,0-.33,0-.67,0-1C1116.14,1110.19,1105.62,1103.29,1095.48,1103.29Zm-3.36,41.73c-4.63-4.89-10.15-12.44-10.15-20.66,0-.24,0-.47,0-.71.34-8.77,7-12.69,13.5-12.69s13.16,3.92,13.5,12.69q0,.35,0,.7c0,8.22-5.52,15.77-10.15,20.66a4.61,4.61,0,0,1-6.71,0Z&quot; transform=&quot;translate(-1058.99 -1103.29)&quot; /&gt;&lt;polygon class=&quot;cls-1&quot; points=&quot;70.31 43.42 36.5 56.08 2.69 43.42 0 50.61 25.55 60.17 0 69.74 2.69 76.92 36.5 64.27 70.31 76.92 72.99 69.74 47.44 60.17 72.99 50.61 70.31 43.42&quot; /&gt;&lt;/svg&gt;Fall&lt;/h3&gt;
-&lt;p&gt;But every person has rejected God’s authority and has chosen to be self centered and self directed and thus, commit sinful acts. As a result all people are separated from God, justly sentenced to eternal destruction in Hell.&lt;/p&gt;
-&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 63.37 91.92&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1095.48,1236l-16,20.6L1063.8,1241v40.95h21.85c-5.27,5.8-11.35,14.71-11.35,25q0,.5,0,1c.51,13.18,11,20.07,21.16,20.07s20.66-6.89,21.16-20.07q0-.5,0-1c0-10.25-6.08-19.16-11.35-25h21.85V1241l-15.66,15.66Zm0,12.5,10.56,13.57-10.56,10.56-10.56-10.56Zm15.3,19.68,4.7,6h-10.74Zm-1.79,38.68c0,.24,0,.47,0,.71-.34,8.77-7,12.69-13.5,12.69s-13.16-3.92-13.5-12.69q0-.35,0-.7c0-10.34,8.76-19.6,13.23-23.65l.28.28.28-.28C1100.24,1287.25,1109,1296.48,1109,1306.87Zm-22.77-32.64h-10.74l4.7-6Zm-11.51-11.51-3.24,4.17v-7.41Zm44.78-3.24v7.41l-3.24-4.17Z&quot; transform=&quot;translate(-1063.8 -1236.01)&quot; /&gt;&lt;/svg&gt;Offer&lt;/h3&gt;
-&lt;p&gt;Yet God offers the hope of salvation. He gives them the opportunity to end their rebellion... to have God as their rightful authority and treasure. Since that relationship with God would be reconciled, the person would live eternally with God in Heaven.&lt;/p&gt;
-&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 42.36 80.39&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1074.3,1429.38q0,.5,0,1c.51,13.18,11,20.07,21.16,20.07s20.66-6.89,21.16-20.07q0-.5,0-1c0-14.1-11.5-25.67-16.56-30.08h15.84v-7.67h-16.62v-21.57h-7.67v21.57H1075v7.67h15.84C1085.8,1403.71,1074.3,1415.28,1074.3,1429.38Zm34.68.71c-.27,7-4.61,10.93-9.66,12.21v-33.07c4.44,4.79,9.67,12.13,9.67,20.15C1109,1429.62,1109,1429.85,1109,1430.09Zm-17.33,12.21c-5-1.28-9.39-5.19-9.66-12.21q0-.35,0-.7c0-8,5.23-15.33,9.67-20.13Z&quot; transform=&quot;translate(-1074.3 -1370.06)&quot; /&gt;&lt;/svg&gt;Jesus&lt;/h3&gt;
-&lt;p&gt;In order to give people this reconciliation, a payment was made. Jesus, being God and man, came to earth in order to live, die and rise from the dead. By doing this, all who would trust in Him would find complete forgiveness for rebellion and would
-    be given Jesus’ righteousness. When Jesus’ work is applied to a person, they are no longer separated from God and actually become His Child.&lt;/p&gt;
-&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 48.85 74.29&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1114.48,1492.68l-19,19-19-19-5.43,5.43,18.7,18.7c-5.46,5-15.46,15.95-15.46,29.09q0,.5,0,1c.51,13.18,11,20.07,21.16,20.07s20.66-6.89,21.16-20.07q0-.5,0-1c0-13.15-10-24.1-15.46-29.09l18.7-18.7Zm-5.49,53.22c0,.24,0,.47,0,.71-.34,8.77-7,12.69-13.5,12.69s-13.16-3.92-13.5-12.69q0-.35,0-.7c0-10.56,9.13-20,13.51-23.91C1099.87,1525.9,1109,1535.31,1109,1545.91Z&quot; transform=&quot;translate(-1071.06 -1492.68)&quot; /&gt;&lt;/svg&gt;Response&lt;/h3&gt;
-&lt;p&gt;The only way a person will be reconciled to God through Christ, is by asking God to apply the work of Jesus to transform him from a self- centered rebel, to a God-centered person who loves and obeys Him. Such a repentance and plea for salvation is called
-    “being saved by grace through faith”. From that moment on, God reconciles that person to Himself and He becomes their treasure and authority.&lt;/p&gt;
 
-&lt;svg id=&quot;gi6&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 197.84 50.71&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#58595b;}.cls-2{fill:#98c1d9;}.cls-3{fill:#fff;}.cls-4{fill:#78c587;}.cls-5{fill:#ed6b4d;}.cls-6{fill:#765c69;}.cls-7{fill:#c82527;}.cls-8{fill:#3d5a80;}.cls-9{fill:#b1b3b6;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M146.56,433.13a2.42,2.42,0,0,0,1.77-.76,7.89,7.89,0,0,0,2.43-5.15q0-.1,0-.2a4.21,4.21,0,0,0-8.4,0q0,.1,0,.2a7.89,7.89,0,0,0,2.43,5.15A2.42,2.42,0,0,0,146.56,433.13Zm-2.68-6.05a2.68,2.68,0,0,1,5.36,0s0,.09,0,.14a6.43,6.43,0,0,1-2,4.1.91.91,0,0,1-1.33,0,6.43,6.43,0,0,1-2-4.1S143.88,427.13,143.88,427.08Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;polygon class=&quot;cls-1&quot; points=&quot;86.97 42.56 80.26 45.08 73.54 42.56 73.01 43.99 78.08 45.89 73.01 47.79 73.54 49.22 80.26 46.7 86.97 49.22 87.5 47.79 82.43 45.89 87.5 43.99 86.97 42.56&quot; /&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M182.62,421.55l-3.18,4.09-3.11-3.11v8.13h4.34a7.73,7.73,0,0,0-2.25,5q0,.1,0,.2a4.21,4.21,0,0,0,8.4,0q0-.1,0-.2a7.73,7.73,0,0,0-2.25-5h4.34v-8.13l-3.11,3.11Zm0,2.48,2.1,2.7-2.1,2.1-2.1-2.1Zm3,3.91.93,1.2h-2.13Zm-.36,7.68s0,.09,0,.14a2.68,2.68,0,0,1-5.36,0s0-.09,0-.14c0-2.05,1.74-3.89,2.63-4.7l.06.06.06-.06C183.57,431.72,185.31,433.55,185.31,435.62Zm-4.52-6.48h-2.13l.93-1.2Zm-2.29-2.29-.64.83v-1.47Zm8.89-.64v1.47l-.64-.83Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M78.59,429.93a5.28,5.28,0,0,0,0-.69,7.86,7.86,0,0,0-2.4-5.12,2.47,2.47,0,0,0-3.61,0,7.86,7.86,0,0,0-2.4,5.12,5.28,5.28,0,0,0,0,.69,8.36,8.36,0,0,0-3.88,4.94A2.47,2.47,0,0,0,68.85,438a9.68,9.68,0,0,0,5.58-1.72A9.68,9.68,0,0,0,80,438h.08a2.47,2.47,0,0,0,2.37-3.14A8.36,8.36,0,0,0,78.59,429.93Zm-6.84-.69a6.41,6.41,0,0,1,2-4.07,1,1,0,0,1,1.39,0,6.41,6.41,0,0,1,2,4.07v0a8.29,8.29,0,0,0-5.36,0ZM74.43,434a9,9,0,0,1-2.38-3.22,6.76,6.76,0,0,1,4.76,0A9,9,0,0,1,74.43,434Zm-5.63,2.51a.94.94,0,0,1-.78-.37.93.93,0,0,1-.16-.83,6.83,6.83,0,0,1,2.83-3.83,10.65,10.65,0,0,0,2.75,3.68A8.27,8.27,0,0,1,68.81,436.49Zm12-.37a.94.94,0,0,1-.78.37,8.27,8.27,0,0,1-4.63-1.35,10.65,10.65,0,0,0,2.75-3.68A6.83,6.83,0,0,1,81,435.29.93.93,0,0,1,80.84,436.12Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M113.9,431.08a6.22,6.22,0,0,0,.8-2.94c0-.07,0-.13,0-.2a4.21,4.21,0,0,0-8.4,0q0,.1,0,.2a6.22,6.22,0,0,0,.8,2.94,8.35,8.35,0,0,0-3,2.28,2.46,2.46,0,0,0,1.89,4H115a2.46,2.46,0,0,0,1.89-4A8.35,8.35,0,0,0,113.9,431.08Zm2,4.25a.91.91,0,0,1-.85.54H106a.93.93,0,0,1-.72-1.53,6.83,6.83,0,0,1,2.69-2,11.9,11.9,0,0,0,.78.91,2.44,2.44,0,0,0,3.54,0,11.9,11.9,0,0,0,.78-.91,6.83,6.83,0,0,1,2.69,2A.91.91,0,0,1,115.87,435.33Zm-8.06-7.19s0-.09,0-.14a2.68,2.68,0,0,1,5.36,0s0,.09,0,.14a6.43,6.43,0,0,1-2,4.1.91.91,0,0,1-1.33,0A6.43,6.43,0,0,1,107.82,428.14Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M256.15,428.09l3.71-3.71-1.08-1.08L255,427.07l-3.77-3.77-1.08,1.08,3.71,3.71c-1.08,1-3.07,3.17-3.07,5.78q0,.1,0,.2a4.21,4.21,0,0,0,8.4,0q0-.1,0-.2C259.22,431.25,257.23,429.08,256.15,428.09Zm1.54,5.92a2.68,2.68,0,0,1-5.36,0s0-.09,0-.14c0-2.1,1.81-4,2.68-4.75.87.78,2.68,2.64,2.68,4.75C257.69,433.91,257.69,434,257.69,434Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M219.6,428.5h3.15V427h-3.3v-4.28h-1.52V427h-3.3v1.52h3.15c-1,.88-3.29,3.17-3.29,6q0,.1,0,.2a4.21,4.21,0,0,0,8.4,0q0-.1,0-.2C222.89,431.67,220.61,429.37,219.6,428.5Zm1.76,6.11a2.46,2.46,0,0,1-1.92,2.42v-6.57a6.31,6.31,0,0,1,1.92,4S221.37,434.56,221.36,434.61Zm-5.36-.14a6.33,6.33,0,0,1,1.92-4V437a2.46,2.46,0,0,1-1.92-2.43S216,434.52,216,434.47Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;circle class=&quot;cls-2&quot; cx=&quot;8.13&quot; cy=&quot;6.5&quot; r=&quot;6.5&quot; /&gt;&lt;path class=&quot;cls-3&quot; d=&quot;M74.36,397.76v-3H73.28v-.65a1.15,1.15,0,0,0,1.21-.85h.83v4.51Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;circle class=&quot;cls-4&quot; cx=&quot;44.19&quot; cy=&quot;6.5&quot; r=&quot;6.5&quot; /&gt;&lt;path class=&quot;cls-3&quot; d=&quot;M108.91,395a1.72,1.72,0,0,1,0-.31,1.52,1.52,0,0,1,1.65-1.51,1.49,1.49,0,0,1,1.62,1.45,1.62,1.62,0,0,1-.87,1.4l-.87.53a.92.92,0,0,0-.39.41h2.16v.83h-3.33a2.06,2.06,0,0,1,1.06-1.92l.74-.44a.88.88,0,0,0,.53-.78.62.62,0,0,0-.68-.62.68.68,0,0,0-.71.75,1,1,0,0,0,0,.25Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;circle class=&quot;cls-5&quot; cx=&quot;80.26&quot; cy=&quot;6.5&quot; r=&quot;6.5&quot; /&gt;&lt;path class=&quot;cls-3&quot; d=&quot;M145.72,395.1l1.18-1h-2v-.83h3.19V394l-1.17,1a1.34,1.34,0,0,1,1.31,1.37,1.57,1.57,0,0,1-1.73,1.49,1.62,1.62,0,0,1-1.74-1.44l.92-.18a.79.79,0,0,0,.82.79.69.69,0,0,0,.76-.68.66.66,0,0,0-.74-.67,1.11,1.11,0,0,0-.41.07Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;circle class=&quot;cls-6&quot; cx=&quot;116.32&quot; cy=&quot;6.5&quot; r=&quot;6.5&quot; /&gt;&lt;path class=&quot;cls-3&quot; d=&quot;M180.77,395.8l1.9-2.54h1.18V396h.74v.82h-.74v1h-.94v-1h-2.13Zm2.13-1.54L181.62,396h1.28Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;circle class=&quot;cls-7&quot; cx=&quot;152.38&quot; cy=&quot;6.5&quot; r=&quot;6.5&quot; /&gt;&lt;path class=&quot;cls-3&quot; d=&quot;M217.86,396.3a.79.79,0,0,0,.82.76.75.75,0,1,0,0-1.49.92.92,0,0,0-.69.3l-.87-.3.54-2.31h2.54v.83h-1.89l-.22,1a1.24,1.24,0,0,1,.81-.28,1.42,1.42,0,0,1,1.54,1.51,1.59,1.59,0,0,1-1.73,1.57A1.63,1.63,0,0,1,217,396.5Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;circle class=&quot;cls-8&quot; cx=&quot;188.71&quot; cy=&quot;6.5&quot; r=&quot;6.5&quot; /&gt;&lt;path class=&quot;cls-3&quot; d=&quot;M256.2,394.14a1.94,1.94,0,0,0-.74-.16,1.41,1.41,0,0,0-1.49,1.29,1.27,1.27,0,0,1,1.07-.5,1.44,1.44,0,0,1,1.56,1.51,1.62,1.62,0,0,1-1.74,1.58A1.84,1.84,0,0,1,253,395.8a2.42,2.42,0,0,1,2.5-2.64,2,2,0,0,1,.94.21Zm-1.36,2.92a.75.75,0,1,0,0-1.51.74.74,0,0,0-.79.75A.76.76,0,0,0,254.84,397.06Z&quot; transform=&quot;translate(-66.3 -389.09)&quot; /&gt;&lt;rect class=&quot;cls-9&quot; y=&quot;23.05&quot; width=&quot;197.84&quot; height=&quot;0.25&quot; /&gt;&lt;/svg&gt;
+&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 70.42 67.66&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1063.16,1033.23a12.36,12.36,0,0,0,9.51,20.27h45.64a12.36,12.36,0,0,0,9.51-20.27,42.07,42.07,0,0,0-15.2-11.49,31.34,31.34,0,0,0,4.05-14.82c0-.33,0-.67,0-1-.51-13.18-11-20.07-21.16-20.07s-20.66,6.89-21.16,20.07q0,.5,0,1a31.34,31.34,0,0,0,4.05,14.82A42.07,42.07,0,0,0,1063.16,1033.23Zm19.46-5a60,60,0,0,0,3.94,4.6,12.28,12.28,0,0,0,17.85,0,59.91,59.91,0,0,0,3.94-4.6,34.4,34.4,0,0,1,13.57,9.9,4.69,4.69,0,0,1-3.62,7.69h-45.64a4.69,4.69,0,0,1-3.62-7.69A34.4,34.4,0,0,1,1082.62,1028.25Zm-.65-21.34c0-.24,0-.47,0-.71.34-8.77,7-12.69,13.5-12.69s13.16,3.92,13.5,12.69q0,.35,0,.7c0,8.22-5.52,15.77-10.15,20.66a4.61,4.61,0,0,1-6.71,0C1087.49,1022.68,1082,1015.13,1082,1006.91Z&quot; transform=&quot;translate(-1060.27 -985.84)&quot; /&gt;&lt;/svg&gt;Man&lt;/h3&gt;
+
+&lt;p&gt;All people were created by God for His glory. Mankind was designed to have relationship with God and to have God as the ultimate treasure and authority.&lt;/p&gt;
+
+&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 72.99 76.92&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1095.48,1103.29c-10.13,0-20.66,6.89-21.16,20.07q0,.5,0,1c0,10.75,6.67,20,12.26,25.93a12.28,12.28,0,0,0,17.85,0c5.59-5.9,12.26-15.19,12.26-25.93,0-.33,0-.67,0-1C1116.14,1110.19,1105.62,1103.29,1095.48,1103.29Zm-3.36,41.73c-4.63-4.89-10.15-12.44-10.15-20.66,0-.24,0-.47,0-.71.34-8.77,7-12.69,13.5-12.69s13.16,3.92,13.5,12.69q0,.35,0,.7c0,8.22-5.52,15.77-10.15,20.66a4.61,4.61,0,0,1-6.71,0Z&quot; transform=&quot;translate(-1058.99 -1103.29)&quot; /&gt;&lt;polygon class=&quot;cls-1&quot; points=&quot;70.31 43.42 36.5 56.08 2.69 43.42 0 50.61 25.55 60.17 0 69.74 2.69 76.92 36.5 64.27 70.31 76.92 72.99 69.74 47.44 60.17 72.99 50.61 70.31 43.42&quot; /&gt;&lt;/svg&gt;Fall&lt;/h3&gt;
+
+&lt;p&gt;But every person has rejected God’s authority and has chosen to be self centered and self directed and thus, commit sinful acts. As a result all people are separated from God, justly sentenced to eternal destruction in Hell.&lt;/p&gt;
+
+&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 63.37 91.92&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1095.48,1236l-16,20.6L1063.8,1241v40.95h21.85c-5.27,5.8-11.35,14.71-11.35,25q0,.5,0,1c.51,13.18,11,20.07,21.16,20.07s20.66-6.89,21.16-20.07q0-.5,0-1c0-10.25-6.08-19.16-11.35-25h21.85V1241l-15.66,15.66Zm0,12.5,10.56,13.57-10.56,10.56-10.56-10.56Zm15.3,19.68,4.7,6h-10.74Zm-1.79,38.68c0,.24,0,.47,0,.71-.34,8.77-7,12.69-13.5,12.69s-13.16-3.92-13.5-12.69q0-.35,0-.7c0-10.34,8.76-19.6,13.23-23.65l.28.28.28-.28C1100.24,1287.25,1109,1296.48,1109,1306.87Zm-22.77-32.64h-10.74l4.7-6Zm-11.51-11.51-3.24,4.17v-7.41Zm44.78-3.24v7.41l-3.24-4.17Z&quot; transform=&quot;translate(-1063.8 -1236.01)&quot; /&gt;&lt;/svg&gt;Offer&lt;/h3&gt;
+
+&lt;p&gt;Yet God offers the hope of salvation. He gives them the opportunity to end their rebellion… to have God as their rightful authority and treasure. Since that relationship with God would be reconciled, the person would live eternally with God in Heaven.&lt;/p&gt;
+
+&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 42.36 80.39&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1074.3,1429.38q0,.5,0,1c.51,13.18,11,20.07,21.16,20.07s20.66-6.89,21.16-20.07q0-.5,0-1c0-14.1-11.5-25.67-16.56-30.08h15.84v-7.67h-16.62v-21.57h-7.67v21.57H1075v7.67h15.84C1085.8,1403.71,1074.3,1415.28,1074.3,1429.38Zm34.68.71c-.27,7-4.61,10.93-9.66,12.21v-33.07c4.44,4.79,9.67,12.13,9.67,20.15C1109,1429.62,1109,1429.85,1109,1430.09Zm-17.33,12.21c-5-1.28-9.39-5.19-9.66-12.21q0-.35,0-.7c0-8,5.23-15.33,9.67-20.13Z&quot; transform=&quot;translate(-1074.3 -1370.06)&quot; /&gt;&lt;/svg&gt;Jesus&lt;/h3&gt;
+
+&lt;p&gt;In order to give people this reconciliation, a payment was made. Jesus, being God and man, came to earth in order to live, die and rise from the dead. By doing this, all who would trust in Him would find complete forgiveness for rebellion and would be given Jesus’ righteousness. When Jesus’ work is applied to a person, they are no longer separated from God and actually become His Child.&lt;/p&gt;
+
+&lt;h3&gt;&lt;svg id=&quot;Layer_1&quot; data-name=&quot;Layer 1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 48.85 74.29&quot;&gt;&lt;defs&gt;&lt;style&gt;.cls-1{fill:#333;}&lt;/style&gt;&lt;/defs&gt;&lt;path class=&quot;cls-1&quot; d=&quot;M1114.48,1492.68l-19,19-19-19-5.43,5.43,18.7,18.7c-5.46,5-15.46,15.95-15.46,29.09q0,.5,0,1c.51,13.18,11,20.07,21.16,20.07s20.66-6.89,21.16-20.07q0-.5,0-1c0-13.15-10-24.1-15.46-29.09l18.7-18.7Zm-5.49,53.22c0,.24,0,.47,0,.71-.34,8.77-7,12.69-13.5,12.69s-13.16-3.92-13.5-12.69q0-.35,0-.7c0-10.56,9.13-20,13.51-23.91C1099.87,1525.9,1109,1535.31,1109,1545.91Z&quot; transform=&quot;translate(-1071.06 -1492.68)&quot; /&gt;&lt;/svg&gt;Response&lt;/h3&gt;
+
+&lt;p&gt;The only way a person will be reconciled to God through Christ, is by asking God to apply the work of Jesus to transform him from a self- centered rebel, to a God-centered person who loves and obeys Him. Such a repentance and plea for salvation is called “being saved by grace through faith”. From that moment on, God reconciles that person to Himself and He becomes their treasure and authority.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Gospel in Detail</title>
-   <link href="http://localhost:4000/2017/01/02/the-gospel-in-detail/"/>
+   <link href="http://gospelinsix.com/2017/01/02/the-gospel-in-detail/"/>
    <updated>2017-01-02T00:00:00-05:00</updated>
-   <id>http://localhost:4000/2017/01/02/the-gospel-in-detail</id>
+   <id>http://gospelinsix.com/2017/01/02/the-gospel-in-detail</id>
    <content type="html">&lt;h2 id=&quot;god&quot;&gt;God&lt;/h2&gt;
 
 &lt;p&gt;God is the only God and is uncreated&lt;/p&gt;
@@ -221,6 +184,77 @@ but in case I am delayed, I write so that you will know how one ought to conduct
 God loves His Church. Each of His Children are to be deeply connected and functioning in God’s grand family by being a part of a local church. Within God’s family, Christ commissions us to mutually care, serve and share with supernatural love that only He can supply through the Spirit. Through this supernatural love between the members of His family, God is showing the world His presence and the truth of the Gospel of Christ.
 Finally, as part of the Church, He then calls of His children into His mission to spread this wonderful news about Himself, which He calls “The gospel” (Matthew 28:18-20). The heart and mission of God become the heart and mission of those who are truly made God’s children by the Cross of Jesus.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For Those Who Are Uncertain About the Gospel</title>
+   <link href="http://gospelinsix.com/2017/01/02/for-those-who-are-uncertain-about-the-gospel/"/>
+   <updated>2017-01-02T00:00:00-05:00</updated>
+   <id>http://gospelinsix.com/2017/01/02/for-those-who-are-uncertain-about-the-gospel</id>
+   <content type="html">&lt;p&gt;Thank you for taking a few moments to consider the message of the Bible, which it calls “The gospel”. The gospel means “Good News”, but its message is actually some very bad news followed by much better news.&lt;/p&gt;
+
+&lt;p&gt;As you read this introduction, you will probably find yourself in one of the following three categories:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You are aware that you don’t understand the gospel&lt;/li&gt;
+  &lt;li&gt;You may think you have understood the gospel, but actually have not&lt;/li&gt;
+  &lt;li&gt;Or, you may truly understand the gospel and have chosen to reject it&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Most likely, you belong in one of the first two categories, and the reason is simple. The Bible can be overwhelming and hard to understand. But the message of the Bible doesn’t have to be confusing. God has designed the gospel to be explained in a variety of ways, depending upon audience. Jesus Himself gave the gospel to people in different ways, yet it was always the same message, anchored in the same absolute truths. In this little booklet, we will start at the beginning, and give you a clear explanation of what the Bible &lt;em&gt;says&lt;/em&gt;, and what it &lt;em&gt;means for you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As you start through the next few pages, start by asking yourself the five following questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What does the God of the Bible care most about?&lt;/li&gt;
+  &lt;li&gt;What is God’s main problem with mankind?&lt;/li&gt;
+  &lt;li&gt;In the concept of salvation… what is God primarily offering mankind?&lt;/li&gt;
+  &lt;li&gt;Who is Jesus and how does He enable this offer?&lt;/li&gt;
+  &lt;li&gt;How does a person receive this offer?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you can answer these questions, then you are well on your way to finally understanding what the Bible is actually saying… and you are ready to consider what you now want to do with it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For Those Who are Skeptical About the Gospel</title>
+   <link href="http://gospelinsix.com/2017/01/02/for-those-who-are-skeptical-about-the-gospel/"/>
+   <updated>2017-01-02T00:00:00-05:00</updated>
+   <id>http://gospelinsix.com/2017/01/02/for-those-who-are-skeptical-about-the-gospel</id>
+   <content type="html">&lt;p&gt;We love science, reason and empirical proof. In our western culture we are careful to only trust that which is proven and reasonable. Faith, though acceptable for someone else, is largely seen as a weakness and a crutch.&lt;/p&gt;
+
+&lt;p&gt;You are a person of faith. Some believe in a defined faith such as Judaism, Islam, Buddhism or Christianity, while others, such as secularists, agnostics or atheists, hold to an undefined or more informal belief system.&lt;/p&gt;
+
+&lt;p&gt;Our views on assault, intolerance, bigotry and beauty show that we truly believe in absolutes and ultimate morals. Each of these absolutes go beyond reason and cross over into the realm of faith, regardless of whether we choose to admit it.&lt;/p&gt;
+
+&lt;p&gt;The hope of this booklet is to allow you, as a reasonable person who rests on faith (again, all of us do, ultimately), to have the chance to “hear out” a simple summary of the faith that is found in the Bible. Truthfully, our ultimate hope is that in doing so, you hear the voice of Christ calling you and place your faith in Him.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>For Those Who Accept the Gospel</title>
+   <link href="http://gospelinsix.com/2017/01/02/for-those-who-accept-the-gospel/"/>
+   <updated>2017-01-02T00:00:00-05:00</updated>
+   <id>http://gospelinsix.com/2017/01/02/for-those-who-accept-the-gospel</id>
+   <content type="html">&lt;p&gt;God changes people through the gospel. It is the precious foundation for all of our thinking and the most powerful tool we have for accomplishing our mission. We must be gospel-centered people who preach the gospel to ourselves daily and eagerly seek
+the opportunities to share it with others.&lt;/p&gt;
+
+&lt;p&gt;The gospel is greatly misunderstood and quickly forgotten. One of our greatest obstacles to sharing the gospel is our world’s impression that they already understand it. The same can be said of the Church. Therefore, our greatest ambitions will always be our own personal understanding, our own belief in the gospel and our own ability to convey that message to the world around us.&lt;/p&gt;
+
+&lt;p&gt;The gospel can be explained simply in a few sentences or fully unfolded as the whole 66 books of the Bible. Yet God has given us the freedom and obligation to communicate the gospel in the most effective fashion possible. To accomplish this, our communication
+of the gospel needs to meet three standards:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It must be Biblically correct and paint a clear story&lt;/li&gt;
+  &lt;li&gt;It must establish core concepts, while clearing up common misconceptions&lt;/li&gt;
+  &lt;li&gt;It must provide the believer with clear direction for every area of life&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As you read through this booklet, consider two things: First, are there areas of your life that suffer from poor understanding, forgetfulness or partial disbelief of the gospel? And secondly, but just as importantly, how would you explain the gospel to the people God has placed in your life?&lt;/p&gt;
+
+&lt;p&gt;Take a moment to think through the five questions on the previous page and keep your answers in mind as you work through this booklet.&lt;/p&gt;
 </content>
  </entry>
  
